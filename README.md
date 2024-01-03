@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 Me name is Mikhail. Welcome!
+
+About me
+I'm 56 year old programmer from Krasnodar.
+
+
+
 
 <!--
 **MishlMogMish/MishlMogMish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
