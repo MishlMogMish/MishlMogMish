@@ -1,15 +1,15 @@
 ### Hi there 👋 Me name is Mikhail. Welcome!
 
 #### About me
-- #### I'm 56 year old programmer from Krasnodar. 
-- #### I learn Java at [Job4j](https://job4j.ru/)
-- #### I graduated from MIPT (Moscow Institute of Physics and Technology) in applied mathematics and physics
+* I'm 56 year old programmer from Krasnodar. 
+* I learn Java at [Job4j](https://job4j.ru/)
+* I graduated from MIPT (Moscow Institute of Physics and Technology) in applied mathematics and physics
 
 :mortar_board:
 -
 <b>Core technologies:</b>
 
-![Java](https://img.shields.io/badge/Java_-_%3E=_8-blue) 
+> ![Java](https://img.shields.io/badge/Java_-_%3E=_8-blue) 
 
 
 
