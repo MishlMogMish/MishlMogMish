@@ -6,7 +6,7 @@
 - #### I graduated from MIPT (Moscow Institute of Physics and Technology) in applied mathematics and physics
 
 
-:rocket:
+:mortar_board:
 -
 <b>Core technologies:</b>
 
