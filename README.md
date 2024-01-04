@@ -5,6 +5,8 @@ About me
 I'm 56 year old programmer from Krasnodar. 
 -
 I learn Java at [Job4j](https://job4j.ru/)
+-
+I graduated from MIPT - Moscow Institute of Physics and Technology in applied mathematics and physics
 
 
 
